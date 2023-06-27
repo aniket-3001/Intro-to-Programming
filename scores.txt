@@ -1,0 +1,25 @@
+D:/Aniket/PYTHON_CODES/IP Assignment-3/file1.txt
+score: 10.428571428571429
+top 5 words: is, the, in, love, sex, 
+random words: sex, people, ruining, meaningless, she, 
+
+D:/Aniket/PYTHON_CODES/IP Assignment-3/file2.txt
+score: 8.99438202247191
+top 5 words: the, you, of, i, happiness, 
+random words: age, hadnt, during, during, the, 
+
+D:/Aniket/PYTHON_CODES/IP Assignment-3/file3.txt
+score: 9.042857142857144
+top 5 words: the, of, you, in, this, 
+random words: accusation, weaker, had, simple, sincerely, 
+
+D:/Aniket/PYTHON_CODES/IP Assignment-3/file4.txt
+score: 8.471651090342679
+top 5 words: the, love, is, they, and, 
+random words: another, our, think, blows, in, 
+
+D:/Aniket/PYTHON_CODES/IP Assignment-3/file5.txt
+score: 9.274452554744526
+top 5 words: the, i, my, is, in, 
+random words: i, he, is, but, i, 
+
