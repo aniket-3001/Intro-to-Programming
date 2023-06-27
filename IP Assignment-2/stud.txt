@@ -1,0 +1,30 @@
+Aakarsh:
+Aakash, 0
+Aniket, 0
+Arnav, 0
+Aryan, 0
+
+Aakash:
+Aakarsh, 1
+Aniket, 1
+Arnav, 1
+Aryan, 0
+
+Aniket:
+Aakarsh, 1
+Aakash, 1
+Arnav, 1
+Aryan, 0
+
+Arnav:
+Aakarsh, 1
+Aakash, 1
+Aniket, 1
+Aryan, 1
+
+Aryan:
+Aakarsh, 0
+Aakash, 0
+Aniket, 1
+Arnav, 0
+

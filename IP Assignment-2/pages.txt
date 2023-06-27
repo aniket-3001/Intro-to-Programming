@@ -1,0 +1,10 @@
+URL00, 0.5: This is page zero, and has references to URL01, URL09, and also to URL08. It may have repeated references - so there are two references to URL09.
+URL01, 0.3: This is another page. This has reference to URL00, URL02, and URL08.
+URL02, 0.6: This is another page (page is represented as a line in this). This has reference to URL05, URL04, and URL00.
+URL03, 0.7: This is another page. This has reference to URL01, and URL07.
+URL04, 0.2: This is another page. This has reference to URL02, and URL04.
+URL05, 0.9: This is another page. This has reference to URL00, URL02, and URL04.
+URL06, 0.6: This is another page. This has reference to URL03, and URL04.
+URL07, 0.4: This is another page. This has reference to URL01, URL03, and URL04.
+URL08, 0.2: This is another page. This has reference to URL06.
+URL09, 0.7: This is another page. This has reference to URL02, URL05, and URL07.

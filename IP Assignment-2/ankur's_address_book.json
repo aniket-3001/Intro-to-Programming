@@ -1,0 +1,28 @@
+{
+    "John Doe": [
+        {
+        "address": "Delhi",
+        "phone": "123456789",
+        "email": "jdoe@gmail.com"
+        },
+        {
+        "address": "Hyderabad",
+        "phone": "987654321",
+        "email": "jd2@gmail.com"
+        }
+    ],
+    "Jane Doe": [
+        {
+        "address": "Delhi",
+        "phone": "123456780",
+        "email": "jane@gmail.com"
+        }
+    ],
+    "John Hammock": [
+        {
+        "address": "Punjab",
+        "phone": "987654321",
+        "email": "jh@gmail.com"
+        }
+    ]
+}

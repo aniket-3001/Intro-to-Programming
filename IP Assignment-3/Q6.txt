@@ -1,0 +1,28 @@
+Advantages of using OO
+1. Multiple course objects can be created using OOP, reducing code redundancy and allowing for easy replication of the code for other courses with different grading policies and assessment weights.
+2. Code is easier to understand in the sense that we are able to relate it with real life. The code is maintainable too.
+
+Advantages of using Dictionaries
+1. Being quite familiar with data structures like dictionary, it is quite easy to work with it for begginers as well.
+2. Faster performance, we can see that dictionary is a much better approach for small scale problems like this one.
+
+
+Disadvantage of using OO
+1. OOP can be a difficult concept for begginers to grasp at first. This was very much true in my case and it took me very long to debug the code.
+2. The problems of this scale can be handled very easily using dictionary approach and making OOP redundant in this case.
+
+Disadvantage of using dictionaries
+1. If in the future, we need to change anything in the code, it would be difficult to do so, especially if the code is complex and requires many changes.
+2. With dictionaries, it is harder to manage and organize the data, as all the information is stored in a single data structure, unlike in OOP where we can create multiple objects and manage them easily.
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 1000
+2. Time by OO: 0.5172910690307617
+3. Time by dictionary: 0.5179364681243896
+4. Both are almost same, however OO is just slightly faster; fraction of time OO took is: 0.00124767771
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 1000
+2. Time by OO: 1.8976037502288818
+3. Time by dictionary: 1.1412417888641357
+4. Dictionary is faster; fraction of time dictionary took is: 0.6627634751

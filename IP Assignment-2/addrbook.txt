@@ -1,0 +1,47 @@
+{
+    "Jane Doe": [
+        {
+            "address": "Delhi",
+            "email": "jane@gmail.com",
+            "phone": "123456780"
+        }
+    ],
+    "John Doe": [
+        {
+            "address": "Delhi",
+            "email": "jdoe@gmail.com",
+            "phone": "123456789"
+        },
+        {
+            "address": "Hyderabad",
+            "email": "jd2@gmail.com",
+            "phone": "987654321"
+        }
+    ],
+    "John Hammock": [
+        {
+            "address": "Punjab",
+            "email": "jh@gmail.com",
+            "phone": "987654321"
+        }
+    ],
+    "fwjbfkjenwj": [
+        {
+            "address": "Delhi",
+            "email": "jdoe@gmail.com",
+            "phone": "123456789"
+        },
+        {
+            "address": "Hyderabad",
+            "email": "jd2@gmail.com",
+            "phone": "987654321"
+        }
+    ],
+    "rnkjngkjnw": [
+        {
+            "address": "Delhi",
+            "email": "jane@gmail.com",
+            "phone": "123456780"
+        }
+    ]
+}
