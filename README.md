@@ -1,5 +1,5 @@
 # Intro-to-Programming
-Welcome to my Data Introduction to Programming (IP) repository!
+Welcome to my Introduction to Programming (IP) repository!
 
 In this repository, you will find a collection of code implementations from my IP course at my college, IIITD.
 
